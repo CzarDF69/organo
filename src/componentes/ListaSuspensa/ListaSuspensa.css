@@ -1,16 +1,16 @@
-.campo-texto {
+.lista-suspensa {
     margin: 24px 0;
 }
 
-.campo-texto label {
+.lista-suspensa label{
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
     text-align: left;
 }
 
-.campo-texto input {
-    background-color: #FFF;
+.lista-suspensa select {
+    background-color: #fff;
     box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.2);
     width: 100%;
     border: none;
