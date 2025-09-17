@@ -6,10 +6,6 @@
 
 * [React documentation](https://reactjs.org/).
 
-## Publicado em
-
-* [Vercel](https://vercel.com/) => https://organo-chi-black-78.vercel.app/
-
 ## 🛠️ Comandos usados no desenvolvimento do projeto
 
 ```bash
